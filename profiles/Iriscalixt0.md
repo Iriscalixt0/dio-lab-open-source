@@ -6,7 +6,7 @@ Meu nome é **Iris Calixto** e estou iniciando minha jornada com projetos Open S
 - Git e GitHub
 - HTML, CSS
 - JavaScript
-- Python (inicialmente)
+- Java (inicialmente)
 
 ## 📫 Onde me encontrar
 - GitHub: [@Iriscalixt0](https://github.com/Iriscalixt0)
